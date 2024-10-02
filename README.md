@@ -15,7 +15,7 @@
 
 ###
 
-<h1 align="center">Olá, eu sou Ingrid Macário!</h1>
+<h1 align="center">Olá! Eu sou Ingrid Macário 🌟</h1>
 
 ###
 
@@ -57,10 +57,3 @@
 
 ###
 
-<h2 align="left">🌟 Contribuições:</h2>
-
-###
-
-<img src="https://raw.githubusercontent.com/ingridmacario/ingridmacario/output/snake.svg" alt="Snake animation" />
-
-###
