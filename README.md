@@ -34,7 +34,7 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn-icons-png.flaticon.com/512/5815/5815809.png" width="50" height="50" alt="SQL" style="background-color:black; padding:5px; border-radius:5px;"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/5815/5815809.png" width="40" height="40" alt="SQL" style="background-color:black; border-radius:10px; padding:5px;"/>
   <img width="12" />
   <img src="https://github.com/serkonda7/vscode-vba/raw/HEAD/images/icon.png" height="40" alt="VBA logo" />
   <img width="12" />
