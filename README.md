@@ -43,6 +43,12 @@
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=autocad" height="40" alt="autocad logo"  />
+  <img width="12" />
+  <div style="position:relative; display:inline-block; background-color:black; border-radius:7px; padding:5px; margin:3px; width:40px; height:30px; text-align:center;">
+    <img align="center" alt="Ingrid-VBA" height="25" width="25" src="https://e7.pngegg.com/pngimages/457/797/png-clipart-visual-basic-for-applications-microsoft-excel-macro-microsoft-angle-logo-thumbnail.png" style="filter: brightness(0) invert(1);">
+    <span style="position:absolute; bottom:2px; left:0; right:0; color:white; font-size:10px; font-weight:bold;">VBA</span>
+  </div>
+
 </div>
 
 ###
