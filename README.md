@@ -44,7 +44,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
   <img width="12" />
-  <img align="center" alt="Ingrid-SQL" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/5815/5815809.png" style="background-color:black; border-radius:7px; padding:5px; margin:3px;">
+  <img align="center" alt="Ingrid-MySQL" height="30" width="40" src="https://user-images.githubusercontent.com/40461634/114240226-2f506580-9955-11eb-849b-e2a25117d681.png" style="background-color:black; border-radius:7px; padding:5px; margin:3px;">
 
 </div>
 
