@@ -23,7 +23,7 @@
 
 ###
 
-<p align="justify">Graduanda em Engenharia Civil pela Universidade Federal da Bahia, participou de Iniciação Científica pelo Grupo de Pesquisa e Extensão em Gestão e Tecnologia (GETEC-UFBA), como bolsista PIBIC, no ínterim de 2020 e 2021 pelo qual produziu e publicou dois artigos acerca da análise de dados com foco no fomento do BIM para implemento da Economia Circular na construção civil. Em 2021, integrou a Equipe Concreto UFBA, sendo participante do concurso Aparato de Proteção ao Ovo (APO). Ainda nesse ano, começou a estagiar na empresa Sistema Consultoria e Projetos auxiliando em projetos estruturais. Em 2022, iniciou o estágio na Sertenge Engenharia na área de atuação de Qualidade, possibilitando contato com área de auditoria, ESG e acompanhamento de indicadores. Em 2023, tornou-se membro efetivo da TITAN, Empresa Júnior de Engenharia da Computação. Também neste ano, estudou Python aplicado para Ciências de Dados através do bootcamp fornecido pela Ada Tech, em que foi possível realizar projetos utilizando pandas, numpy, estatística e machine learning. Em 2024, iniciou na França e Associados como estagiária de Inovação, em que integra VBA com a linguagem de Desenho Paramétrico do TQS (DPS).</p>
+<p align="justify">Graduanda em Engenharia Civil pela Universidade Federal da Bahia, participou de Iniciação Científica pelo Grupo de Pesquisa e Extensão em Gestão e Tecnologia (GETEC-UFBA), como bolsista PIBIC, no ínterim de 2020 e 2021 pelo qual produziu e publicou dois artigos acerca da análise de dados com foco no fomento do BIM para implemento da Economia Circular na construção civil. Em 2021, integrou a Equipe Concreto UFBA, sendo participante do concurso Aparato de Proteção ao Ovo (APO). Ainda nesse ano, começou a estagiar na empresa Sistema Consultoria e Projetos auxiliando em projetos estruturais. Em 2022, iniciou o estágio na Sertenge Engenharia na área de atuação de Qualidade, possibilitando contato com área de auditoria, ESG e acompanhamento de indicadores. Em 2023, tornou-se membro efetivo da TITAN, Empresa Júnior de Engenharia da Computação. Também neste ano, estudou Python aplicado para Ciências de Dados através do bootcamp fornecido pela Ada Tech, em que foi possível realizar projetos utilizando pandas, numpy, estatística e machine learning. Em 2024, iniciou na França e Associados como estagiária de Inovação, em que integra VBA com a linguagem de Desenho Paramétrico do TQS (DPS). Em 2025, iniciou o estágio em Análise de Dados no iFood, em que utilizada linguagem SQL.</p>
 
 ###
 
@@ -33,6 +33,8 @@
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn-icons-png.flaticon.com/512/5815/5815809.png" width="50" height="50" alt="SQL" style="background-color:black; padding:5px; border-radius:5px;"/>
   <img width="12" />
   <img src="https://github.com/serkonda7/vscode-vba/raw/HEAD/images/icon.png" height="40" alt="VBA logo" />
   <img width="12" />
